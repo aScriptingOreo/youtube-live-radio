@@ -1,11 +1,11 @@
 {
-  "name": "YouTube 24/7 live stream radio",
-  "description": "A sample live stream radio app",
-  "repository": "https://github.com/foxtacles/youtube-live-radio",
+  "name": "Beeker's Radio 24/7",
+  "description": "Keeping it Grooving, baby",
+  "repository": "https://github.com/aScriptingOreo/youtube-live-radio",
   "stack": "container",
   "env": {
     "YOUTUBE_KEY": {
-      "description": "The YouTube live stream key to be used. Can be found in the YouTube UI",
+      "description": "Beekers Radio",
       "required": true
     }
   },

@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  radio:
+    container_name: radio
+    build: .
+    volumes:
+      - './:/usr/src/app/'
